@@ -33,6 +33,6 @@
   },
   "globals": {
     "ScaleDrone": false,
-    "sendMessage": true
+    "sendMessage": false
   }
 }
